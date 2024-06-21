@@ -1,0 +1,250 @@
+/* body */
+body {
+  background: #f5f3f3;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+
+ul,
+ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/* Wrapper */
+.wrapper {
+  background: #ebeaea;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* Main content */
+.main-content {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+
+/* My info */
+.my-info {
+  margin-bottom: 40px;
+}
+
+.my-profession {
+  color: #000;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 121%;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.my-name {
+  color: #000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 122%;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+
+.my-descr {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+
+.work-experience-title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.work-experience-company {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.time {
+  color: #c65252;
+}
+
+.work-experience-period {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+  margin-bottom: 8px;
+}
+
+.work-experience-period-separator {
+  color: #000;
+}
+
+.work-experience-duties-list {
+  padding-left: 28px;
+}
+
+.work-experience-duties-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+
+.work-experience-container {
+  margin-bottom: 12px;
+}
+
+.decoration {
+  text-decoration: underline;
+  color: #000000;
+  padding-right: 5px;
+}
+
+/* Education */
+.education-title {
+  font-size: 25px;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.my-university {
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.profession-psychology {
+  font-weight: 700;
+  font-size: 14px;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.school-period {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  color: #000000;
+}
+
+.school-period-sity {
+  color: #000;
+}
+
+.education-container {
+  margin-top: 40px;
+  margin-bottom: 8px;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #dddcdc;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+
+.sidebar-content {
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  box-sizing: content-box;
+}
+
+.contacts-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.contacts-link {
+  color: #2979ff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: underline;
+}
+
+.contacts-item {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.contacts-container {
+  margin-bottom: 40px;
+}
+
+/* Tech Skills */
+.tech-skills-container {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.tech-skills-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.tech-skills-list {
+  padding-left: 21px;
+}
+
+.tech-skills-list-item {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+/* Soft skills */
+.soft-skills-container {
+  margin-bottom: 40px;
+}
+
+.soft-skills-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.soft-skills-list {
+  padding-left: 21px;
+}
+
+.soft-skills-list-item {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
